@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C# Express 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MotionCapture", "Helicopter\Helicopter\MotionCapture.csproj", "{E45872D7-5F5A-47E4-9F51-A950BC1C77A4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MotionCaptureContent", "Helicopter\HelicopterContent\MotionCaptureContent.contentproj", "{70BCFB7D-0F10-4A65-B65A-CED4C1526349}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E45872D7-5F5A-47E4-9F51-A950BC1C77A4}.Debug|x86.ActiveCfg = Debug|x86
+		{E45872D7-5F5A-47E4-9F51-A950BC1C77A4}.Debug|x86.Build.0 = Debug|x86
+		{E45872D7-5F5A-47E4-9F51-A950BC1C77A4}.Release|x86.ActiveCfg = Release|x86
+		{E45872D7-5F5A-47E4-9F51-A950BC1C77A4}.Release|x86.Build.0 = Release|x86
+		{70BCFB7D-0F10-4A65-B65A-CED4C1526349}.Debug|x86.ActiveCfg = Debug|x86
+		{70BCFB7D-0F10-4A65-B65A-CED4C1526349}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
